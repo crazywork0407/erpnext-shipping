@@ -20,7 +20,7 @@
   {
    "fieldname": "api_id",
    "fieldtype": "Data",
-   "label": "API ID",
+   "label": "API ID123",
    "read_only_depends_on": "eval:doc.enabled == 0"
   },
   {
